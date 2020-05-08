@@ -2,3 +2,6 @@
 *.png
 *.directory
 qrcode/qrcode
+.idea
+vendor
+main
